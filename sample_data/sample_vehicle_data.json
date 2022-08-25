@@ -1,0 +1,82 @@
+[
+  {
+    "model": "e-tron Sportback 55 quattro",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 1,
+    "year": 2020
+  },
+  {
+    "model": "e-tron Sportback 50 quattro",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 2,
+    "year": 2020
+  },
+  {
+    "model": "e-tron 55",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 3,
+    "year": 2020
+  },
+  {
+    "model": "e-tron 50 Quattro",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 4,
+    "year": 2020
+  },
+  {
+    "model": "E-Tron S",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 5,
+    "year": 2021
+  },
+  {
+    "model": "e-tron GT",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 6,
+    "year": 2021
+  },
+  {
+    "model": "Q4 e-tron Sportback",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 7,
+    "year": 2021
+  },
+  {
+    "model": "Q4 e-tron",
+    "vehicle_make": {
+      "make": "Audi"
+    },
+    "id": 8,
+    "year": 2021
+  },
+  {
+    "model": "i3",
+    "vehicle_make": {
+      "make": "BMW"
+    },
+    "id": 9,
+    "year": 2014
+  },
+  {
+    "model": "i3 60Ah",
+    "vehicle_make": {
+      "make": "BMW"
+    },
+    "id": 10,
+    "year": 2014
+  }
+]
